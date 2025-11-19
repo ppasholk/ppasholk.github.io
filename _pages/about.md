@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-Academic About Me
 ======
 I am an energy-efficiency professional and program manager with more than ten years of experience delivering residential, commercial, and institutional energy programs. My academic training spans environmental studies, sustainable systems engineering, and energy management. I hold a B.S. in Environmental Studies (Energy Studies emphasis) from Northern Illinois University and am completing a Master of Science in Sustainability with an Energy Management emphasis at Eastern Illinois University (expected May 2026). I am additionally credentialed as a BPI Certified Building Analyst, Envelope Professional, Energy Auditor, and Quality Control Inspector.
 
