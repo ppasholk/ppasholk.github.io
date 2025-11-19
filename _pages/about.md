@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 I am an energy-efficiency professional and program manager with more than ten years of experience delivering residential, commercial, and institutional energy programs. My academic training spans environmental studies, sustainable systems engineering, and energy management. I hold a B.S. in Environmental Studies (Energy Studies emphasis) from Northern Illinois University and am completing a Master of Science in Sustainability with an Energy Management emphasis at Eastern Illinois University (expected May 2026). I am additionally credentialed as a BPI Certified Building Analyst, Envelope Professional, Energy Auditor, and Quality Control Inspector.
 
 My professional work reflects a sustained commitment to energy equity, technical excellence, and poverty alleviation through energy affordability. I have led or supported projects across a broad range of sectors—including mobile homes, single-family residences, multifamily buildings, schools, universities, military bases, hospitals, laboratories, correctional facilities, and local government facilities. My technical expertise includes building performance diagnostics, HVAC and envelope analysis, lighting and water conservation surveys, and whole-building energy modeling using tools such as Real Home Analyzer, Hancock HEAT, TREAT, CoolCalc, and ACCA Speed Sheets.
