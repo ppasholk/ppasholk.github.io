@@ -229,7 +229,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  presentations:
+  Talks:
     output: true
     permalink: /:collection/:path/
 
