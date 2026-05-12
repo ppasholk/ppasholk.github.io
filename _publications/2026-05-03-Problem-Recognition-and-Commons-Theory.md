@@ -1,4 +1,4 @@
-<img width="296" height="85" alt="image" src="https://github.com/user-attachments/assets/26d867e0-9c7a-4f34-8f7b-da8206a131b4" />---
+---
 title: "Problem Recognition and the Limits of Commons Theory"
 collection: publications
 category: manuscripts
