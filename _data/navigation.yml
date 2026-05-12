@@ -8,10 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "Research and Writing"
     url: /publications/
     
-  - title: "CV"
+  - title: "Resume"
     url: http://ppasholk.github.io/files/PasholkResume.pdf
 
   - title: "Portfolio"
