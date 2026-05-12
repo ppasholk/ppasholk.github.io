@@ -1,7 +1,7 @@
 ---
 title: "Problem Recognition and the Limits of Commons Theory"
 collection: publications
-category: manuscripts
+category: essays
 permalink: /publication/Pasholk_Final_Commons
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-05-03
