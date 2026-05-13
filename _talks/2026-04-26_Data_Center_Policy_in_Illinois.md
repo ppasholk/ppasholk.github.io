@@ -13,10 +13,8 @@ This is a description of your conference proceedings talk, note the different fi
 
 ### Slides
 
-[Download Presentation Slides](ppasholk.github.io/files
-/Coordinating_Data_Centers_Pasholk.pdf)
+[Download Presentation Slides](ppasholk.github.io/files/Coordinating_Data_Centers_Pasholk.pdf)
 
 ### Report
 
-[Download Full Report](ppasholk.github.io/files
-/Pasholk_Policy_Memo_Data_Centers.pdf)
+[Download Full Report](ppasholk.github.io/files/Pasholk_Policy_Memo_Data_Centers.pdf)
