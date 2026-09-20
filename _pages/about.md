@@ -6,11 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an energy-efficiency professional and program manager with more than ten years of experience delivering residential, commercial, and institutional energy programs. My academic training spans environmental studies, sustainable systems engineering, and energy management. I hold a B.S. in Environmental Studies (Energy Studies emphasis) from Northern Illinois University and am completing a Master of Science in Sustainability with an Energy Management emphasis at Eastern Illinois University (expected May 2026). I am additionally credentialed as a BPI Certified Building Analyst, Envelope Professional, Energy Auditor, and Quality Control Inspector.
+I am an energy efficiency and sustainability professional with 10+ years of experience implementing residential, commercial, and public-sector energy efficiency programs. Throughout my career, I have developed a proven track record of strengthening struggling programs, building effective delivery systems, and scaling operations to expand reach and impact.
 
-At Eastern Illinois University, I seek to understand the intersectinality between energy efficiency and poverty. Can we better justify investments in energy by studying how efficiency improvements create outcomes in household mobility, health care, and well-being? My studies focus on how to effectively influence substantial change that improve energy usage in communities.
+I currently serve as a Program Manager at Walker-Miller Energy Services, supporting Ameren Illinois’ Procurement Advancement and Transformation Hub (PATH) and Program Ally Incubator programs. My work focuses on diverse vendor development, business development, workforce expansion, stakeholder engagement, and program implementation.
 
-My professional work reflects a sustained commitment to energy equity, technical excellence, and poverty alleviation through energy affordability. I have led or supported projects across a broad range of sectors—including mobile homes, single-family residences, multifamily buildings, schools, universities, military bases, hospitals, laboratories, correctional facilities, and local government facilities. My technical expertise includes building performance diagnostics, HVAC and envelope analysis, lighting and water conservation surveys, and whole-building energy modeling.
+Across my career, I have led teams, recruited and developed contractor networks, managed stakeholder relationships, and translated energy efficiency objectives into practical program delivery. I enjoy working in complex environments where programs need structure, collaboration, and strategic direction to reach their full potential.
+
+I hold a Master of Science in Sustainability, with an Energy Management emphasis, from Eastern Illinois University’s Lumpkin College of Business and Technology, where I graduated with honors. I also hold a Bachelor of Science in Environmental Studies, with an Energy Studies emphasis, from Northern Illinois University.
+I am a BPI-certified Building Analyst Technician & Professional, Energy Auditor, and Quality Control Inspector. In 2024, I was recognized as a Champaign County Forty Under 40 honoree by Central Illinois Business Insider.
+
+I also completed the United Way of Champaign County’s Emerging Community Leaders program, where I worked with a cohort of young professionals to co-found a community nonprofit initiative focused on supporting families and early childhood development. That experience strengthened my interest in collaborative leadership, community engagement, and creating practical solutions to local challenges.
+
+My professional interests include energy efficiency program implementation, utility portfolio strategy, underserved markets, emerging technologies, and the challenges of moving innovative program models from pilot to scalable delivery.
+
+I believe that effective program management is about more than meeting goals, it is about building the frameworks, relationships, and opportunities that make sustainable success possible.
 
 Professional Focus and Contributions
 ======
