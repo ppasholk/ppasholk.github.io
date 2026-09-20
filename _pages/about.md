@@ -41,6 +41,6 @@ Community Commitment
 ------
 Beyond my programmatic work, I am actively involved in community service. I have been recognized as one of Champaign County’s Forty Under 40 (2024) by Central Illinois Business Insider and selected as part of the United Way’s Emerging Community Leaders (Class of 2023). I regularly volunteer with local literacy initiatives, including the Read, Talk, Play Everyday program, which provides books and early learning materials to over 400 families annually.
 
-**Professional Mission**
-
+Professional Mission
+------
 My overarching mission is to expand access to high-quality energy efficiency services for historically underserved communities. I believe that energy affordability is foundational to economic stability, public health, and long-term sustainability. Through both academic research and professional practice, I aim to advance program models that are data-driven, community-grounded, and equity-centered.
