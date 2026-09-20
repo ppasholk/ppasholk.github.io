@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my résumé as a PDF](http://ppasholk.github.io/files/PasholkResume.pdf)
+
 Education
 ======
 * M.S. in Sustainability, Energy Management emphasis, Eastern Illinois University, 2026
