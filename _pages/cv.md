@@ -88,7 +88,9 @@ Skills
  
 Awards and Recognitions
 ======
-* Champaign County Forty Under 40, 2024 — Central Illinois Business Insider
+* **Champaign County Forty Under 40, 2024** — Central Illinois Business Insider
+  * [News-Gazette coverage](https://www.news-gazette.com/news/local/community-events/forty-under-40-celebrating-our-680-winners-over-the-years/article_a4db621d-6a1a-52f6-b1d1-3b6e74dbe0cf.html)
+  * [Champaign County RPC recognition](https://www.facebook.com/ChampaignCountyRPC/posts/for-the-second-year-in-a-row-the-rpc-is-represented-in-central-illinois-business/949727057182173/)
 * Emerging Community Leaders, Class of 2023 — United Way of Champaign County
 
 Publications
