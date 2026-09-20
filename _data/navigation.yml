@@ -12,7 +12,7 @@ main:
     url: /publications/
     
   - title: "Resume"
-    url: http://ppasholk.github.io/files/PasholkResume.pdf
+    url: /cv/
 
   - title: "Essays"
     url: /portfolio/
