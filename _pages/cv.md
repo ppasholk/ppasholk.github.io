@@ -17,7 +17,7 @@ Education
 * B.S. in Environmental Studies, Energy Studies emphasis, Northern Illinois University, 2014
   * Minor: Sustainable Systems Engineering
 
-Professional Certification
+Professional Certifications
 ======
 * BPI Certified Building Analyst Technician & Professional
 * BPI Energy Auditor
