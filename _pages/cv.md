@@ -24,7 +24,7 @@ Professional Certifications
 * BPI Quality Control Inspector
 * BPI Healthy Home Evaluator
 
-Work experience
+Work Experience
 ======
 2026–Present: Program Manager
 * Walker-Miller Energy Services
