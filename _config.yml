@@ -88,6 +88,14 @@ publication_category:
   technical:
     title: 'Technical Papers'
 
+portfolio_category:
+  professional:
+    title: 'Professional Essays'
+  academic:
+    title: 'Academic Work'
+  thought-leadership:
+    title: 'Thought Leadership'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
