@@ -1,27 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Peter D. Pasholk",
+    "email": "Ppasholk91@gmail.com",
+    "phone": "(630) 608-3567",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Energy efficiency and sustainability professional with more than a decade of experience implementing residential, commercial, and public-sector energy programs. My work focuses on program implementation, contractor and stakeholder engagement, building performance, and the practical conditions required to move energy efficiency initiatives from successful pilots to scalable programs.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Champaign",
       "countryCode": "US",
-      "region": ""
+      "region": "IL"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
@@ -30,39 +30,155 @@
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "name": "Walker-Miller Energy Services",
+      "position": "Program Manager",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "",
+      "summary": "Manage implementation of Ameren Illinois market development initiatives focused on expanding diverse vendor participation, developing small businesses, and strengthening pathways for vendors to participate in energy efficiency programs.",
+      "highlights": [
+        "Manage the Ameren Illinois Program Ally Incubator and Procurement Advancement and Transformation Hub (PATH).",
+        "Develop and manage the Ameren Illinois Diverse Vendor Database and support engagement with small, local, and diverse businesses.",
+        "Lead vendor recruitment, certification, onboarding, workshops, mentorship, and alumni engagement.",
+        "Support business development and program delivery strategies designed to expand participation in Ameren Illinois energy efficiency opportunities."
+      ]
+    },
+    {
+      "name": "Future Energy Enterprises",
+      "position": "Energy Efficiency Program Manager",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "2026-06-01",
+      "summary": "Managed planning, implementation, and delivery of the Ameren Illinois Mobile Home Initiative, a residential energy efficiency program serving income-qualified households across the Ameren Illinois service territory.",
+      "highlights": [
+        "Scaled program delivery from two counties to full territory coverage.",
+        "Increased annual incentive deployment from $650K to $1.4M.",
+        "Expanded the contractor network from 3 to 15 participating vendors.",
+        "Led a cross-functional team delivering residential energy efficiency projects for manufactured housing communities.",
+        "Managed relationships with utilities, Community Action Agencies, contractors, property managers, and nonprofit partners.",
+        "Developed quarterly performance reports and stakeholder presentations tracking participation, budgets, and energy savings.",
+        "Led pilots and operational improvements within the program."
+      ]
+    },
+    {
+      "name": "Champaign County Regional Planning Commission",
+      "position": "Energy Efficiency Program Manager",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "2025-01-01",
+      "summary": "Managed and expanded energy efficiency programs serving income-qualified residents of Champaign County.",
+      "highlights": [
+        "Managed and expanded a team of energy professionals implementing federal energy efficiency programs.",
+        "Recruited, trained, and supported participating contractors, expanding the network from 3 to 10 vendors.",
+        "Increased service delivery from 8 clients in PY23 to 75 in PY24.",
+        "Developed performance reports covering key performance indicators, budgets, and strategic updates.",
+        "Oversaw grant management, including budgets, goals, compliance, and outcomes."
+      ]
+    },
+    {
+      "name": "ENVOCORE",
+      "position": "Project Surveyor",
+      "url": "",
+      "startDate": "2019-11-01",
+      "endDate": "2021-03-01",
+      "summary": "Conducted lighting and building envelope energy surveys on large-scale commercial and institutional facilities throughout the United States.",
+      "highlights": [
+        "Conducted energy surveys for schools, universities, offices, hotels, military bases, hospitals, research facilities, laboratories, and correctional facilities.",
+        "Produced detailed energy usage reports and supervised survey teams."
+      ]
+    },
+    {
+      "name": "Franklin Energy Services",
+      "position": "Energy Advisor II",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2019-11-01",
+      "summary": "Performed residential weatherization audits and quality control inspections for Delaware's Weatherization Assistance Program."
+    },
+    {
+      "name": "CLEAResult",
+      "position": "Account Manager / Energy Advisor",
+      "url": "",
+      "startDate": "2015-04-01",
+      "endDate": "2018-01-01",
+      "summary": "Provided energy efficiency program support, quality control inspections, energy assessments, and direct installation services across residential, multifamily, and commercial buildings."
+    }
+  ],
+ "education": [
+    {
+      "institution": "Eastern Illinois University",
+      "area": "M.S. in Sustainability, Energy Management emphasis",
+      "studyType": "Master of Science",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "Northern Illinois University",
+      "area": "B.S. in Environmental Studies, Energy Studies emphasis",
+      "studyType": "Bachelor of Science",
       "startDate": "",
       "endDate": "2014",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+        "Sustainable Systems Engineering minor"
+      ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Energy Efficiency Program Management",
+      "keywords": [
+        "Program Implementation",
+        "Strategic Planning",
+        "Stakeholder Management",
+        "Performance Reporting",
+        "Pilot Development"
+      ]
+    },
+    {
+      "name": "Building Performance",
+      "keywords": [
+        "Residential",
+        "Commercial",
+        "Federal Buildings",
+        "Building Envelope",
+        "Energy Auditing"
+      ]
+    },
+    {
+      "name": "Market & Contractor Development",
+      "keywords": [
+        "Contractor Recruitment",
+        "Vendor Engagement",
+        "Workforce Development",
+        "Program Ally Networks",
+        "Small Business Development"
+      ]
+    },
+    {
+      "name": "Data & Communication",
+      "keywords": [
+        "Energy Usage Data",
+        "Program Reporting",
+        "Technical Writing",
+        "Stakeholder Presentations",
+        "Performance Analysis"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    "Energy Efficiency Program Implementation",
+    "Program Scalability",
+    "Market Transformation",
+    "Building Performance",
+    "Sustainability",
+    "Workforce and Vendor Development"
+  ],
   "references": [],
   "publications": [
     {
