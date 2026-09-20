@@ -8,12 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Resume"
+    url: /cv/
+  
   - title: "Academic Writing"
     url: /publications/
     
-  - title: "Resume"
-    url: /cv/
-
   - title: "Essays"
     url: /portfolio/
     
