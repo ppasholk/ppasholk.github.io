@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Articles"
+title: "Professional Articles"
 permalink: /articles/
 author_profile: true
 ---
