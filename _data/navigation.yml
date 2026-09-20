@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Research and Writing"
+  - title: "Academic Writing"
     url: /publications/
     
   - title: "Resume"
     url: http://ppasholk.github.io/files/PasholkResume.pdf
 
-  - title: "Projects"
+  - title: "Essays"
     url: /portfolio/
     
-  - title: "Presentations"
+  - title: "Research"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Articles"
     url: /teaching/    
     
         
-  - title: "Blog Posts"
+  - title: "Presentations"
     url: /year-archive/
     
     
