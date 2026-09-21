@@ -3,7 +3,7 @@ title: "A Successful Pilot Isn’t Necessarily a Scalable Program"
 excerpt: "A successful pilot is not necessarily one that meets its initial performance targets. For a pilot to become a scalable program, it must generate evidence that the underlying delivery system, its network, capacity, processes, demand, and infrastructure, can support repeatable growth. This essay proposes a practitioner-oriented way of thinking about the difference between pilot effectiveness, pilot success, and scalability."
 collection: portfolio
 category: professional
-date: September 2026
+date: September 20, 2026
 ---
 # A Successful Pilot Isn’t Necessarily a Scalable Program
 
