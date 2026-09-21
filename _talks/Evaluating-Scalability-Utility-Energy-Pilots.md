@@ -4,7 +4,7 @@ author: Peter Pasholk
 excerpt: "Energy efficiency programs within the residential sector frequently mistake technical success for scalability, assuming an isolated pilot can naturally serve as a market-wide blueprint. However, residential retrofits rarely fail because the underlying technologies malfunction; they fail because their delivery systems are structurally incapable of handling portfolio-scale volume. True scalability is not an organic byproduct of a successful technical demonstration, but an independent organizational capability that requires deliberate design. By shifting our analytical focus from individual technology measures to the health of the entire delivery engine, we can ensure valuable ratepayer investments are not lost to the 'one-off pilot' trap."
 type: "Research Memo"
 category: professional
-date: September 20, 2026
+date: September 21, 2026
 ---
 # Evaluating Scalability in Utility Energy Efficiency Pilots
 
