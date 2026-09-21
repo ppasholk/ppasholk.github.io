@@ -20,7 +20,7 @@ Energy efficiency programs within the residential sector are frequently designed
 
 Residential energy retrofits do not fail to scale because the underlying technologies (such as heat pumps, insulation, or smart panels) malfunction; they fail because the delivery systems are structurally incapable of handling portfolio-scale volume.
 
-This research memo provides a multidimensional framework for evaluating energy efficiency measures. By shifting the unit of analysis from the technical of the energy efficiency measure to the operational delivery system, we can design for scalability from the outset. This ensures that valuable public and ratepayer investments are not lost to the "one-off pilot" trap.
+This research memo provides a multidimensional framework for evaluating energy efficiency measures. By shifting the unit of analysis from the technicals of the energy efficiency measure to the operational delivery system, we can design for scalability from the outset. This ensures that valuable public and ratepayer investments are not lost to the "one-off pilot" trap.
 
 ---
 
