@@ -18,7 +18,6 @@ What goes into turning a bright idea into a standard market offering? In the ene
 In many respects, a pilot program has two different jobs: **prove the concept works** and **build a delivery system capable of repeating that success**. And it’s not enough for the process to be replicable; it needs to be *scalable*, meaning it must be repeated at a greater volume, geography, or market penetration as well. So what should we focus on when turning a pilot into a perennial offering? 
 
 As a practitioner in the field, I have seen standalone pilots come and go. Some ideas are revisited from time to time; others aren’t because the program metrics didn’t add up as intended. Some pilots explore a niche or subgroup but ultimately get folded back into a larger program. Is there a secret, or are there signs that program managers can look out for when deciding whether a concept can become a standard program offering? And what should be their focus: a rush to prove a concept and hit KPIs, or is there something else leaders should be working on as they roll out their pilot?
-
 ## Rethinking "Success" in Pilot Programs
 
 I’ll start by sharing my observation that no, a successful pilot is not necessarily one that hits savings goals, hits targets, or even boasts a good costs-per-savings ratio. Those are metrics that make for an *effective* pilot. Did we accomplish what we set out to do? That’s effectiveness. Continuing to ask why or why not is what turns a pilot into a success. **Success**, in the way this essay uses the term, is the pilot generating sufficient evidence to justify moving to the next stage.
@@ -33,7 +32,6 @@ This essay is not saying success is about the lessons we learned along our journ
 Through this process, we learn where the true demand is and demonstrate how much we can achieve if we are given the runway to serve that demand. At some point, we’ll run into a problem to solve, and we’ll build operating procedures and problem-solving mechanisms with our partners. We’ll also often see pilots used as a proving ground for new management styles, reporting mechanisms, or software. 
 
 Are there better ways to think about pilot success? I’ve seen these operational structures be some of the most important assets a pilot can produce. As a program implementer, I would use pilots specifically to build or expand program networks that could be scaled or repurposed in the future for entirely different programs. 
-
 ## The Core Elements of Scalability
 
 For a pilot to be scalable, the underlying network needs to demonstrate **capacity**. It’s not some abstract math formula where you divide the number of people in the pipeline by the projects completed per week. It’s a hard commitment to a number of projects completed by a specified date that you can confidently stand behind. 
@@ -43,7 +41,6 @@ For a pilot to be scalable, the underlying network needs to demonstrate **capaci
 Then we should ask ourselves: *what about this pilot is sufficiently different from larger programs? What’s keeping this pilot from being a checkbox on another program’s workbook?* 
 
 In many ways, it comes down to **access**. If a measure is niche, your program should excel at finding and enrolling niche customers. If it’s a specialty measure, the program will have to make it easy and seamless for specialty vendors to participate. You should expect to build and manage your own vendor network; this way, you can better manage the outcomes and directly capture feedback from the field.
-
 ## Pitfalls: The Danger of the Year-End Crunch
 
 That said, what do we want to avoid? 
@@ -55,7 +52,6 @@ While this isn't the boilerplate experience for everyone, many program implement
 Here is what is most important to remember: **rushing units out the door and hitting savings targets does not guarantee a program year two.**
 
 One of the first questions that will come up from leadership will be, *“Can we do this again?”* If it was a scramble to hit numbers at the last minute, it will be critical for the program team to explain that the pilot matured enough that you now know which structural issues to focus on next year. If all of your production came from a single vendor or from one specific location, you must have a clear plan to deploy your program process evenly across the entire utility territory. 
-
 ## Conclusion
 
 No pilots are operated in a silo. There will always be a number of different stakeholders prioritizing different outcomes and metrics. But no one wants to be building the plane while flying it forever. 
