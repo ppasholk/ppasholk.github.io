@@ -15,16 +15,13 @@ date: September 2026
 
 What goes into turning a bright idea into a standard market offering? In the energy efficiency programming space, there is no shortage of opportunities to propose and pilot new programs. Ameren Illinois has a suggestion link where customers and practitioners alike can submit ideas that can help the utility hit its **1,122 GWh savings goal by 2029**. 
 
-In many respects, a pilot program has two different jobs: **prove the concept works** and **build a delivery system capable of repeating that success**. And it’s not enough for the process to be replicable; it needs to be *scalable*—meaning it must be repeated at a greater volume, geography, or market penetration as well. So what should we focus on when turning a pilot into a perennial offering? 
+In many respects, a pilot program has two different jobs: **prove the concept works** and **build a delivery system capable of repeating that success**. And it’s not enough for the process to be replicable; it needs to be *scalable*, meaning it must be repeated at a greater volume, geography, or market penetration as well. So what should we focus on when turning a pilot into a perennial offering? 
 
 As a practitioner in the field, I have seen standalone pilots come and go. Some ideas are revisited from time to time; others aren’t because the program metrics didn’t add up as intended. Some pilots explore a niche or subgroup but ultimately get folded back into a larger program. Is there a secret, or are there signs that program managers can look out for when deciding whether a concept can become a standard program offering? And what should be their focus: a rush to prove a concept and hit KPIs, or is there something else leaders should be working on as they roll out their pilot?
 
 ## Rethinking "Success" in Pilot Programs
 
-I’ll start by sharing my observation that no, a successful pilot is not necessarily one that hits savings goals, hits targets, or even boasts a good costs-per-savings ratio. Those are metrics that make for an *effective* pilot. Did we accomplish what we set out to do? That’s effectiveness. Continuing to ask why or why not is what turns a pilot into a success. 
-
-> [!NOTE]
-> **Success**, in the way this essay uses the term, is the pilot generating sufficient evidence to justify moving to the next stage.
+I’ll start by sharing my observation that no, a successful pilot is not necessarily one that hits savings goals, hits targets, or even boasts a good costs-per-savings ratio. Those are metrics that make for an *effective* pilot. Did we accomplish what we set out to do? That’s effectiveness. Continuing to ask why or why not is what turns a pilot into a success. **Success**, in the way this essay uses the term, is the pilot generating sufficient evidence to justify moving to the next stage.
 
 In fact, you can run a pilot that does not hit its stated goals and still be renewed for additional program years, so long as the results demonstrate it developed sufficient frameworks and infrastructure to be positioned to inevitably meet those goals sometime soon. Pivots happen. Savings come up short. The program persists so long as the results demonstrate enough promise. 
 
