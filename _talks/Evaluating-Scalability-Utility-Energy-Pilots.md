@@ -42,37 +42,37 @@ To understand why successful pilots routinely fail at scale, the analytical lens
 
 When an energy efficiency program moves from a tightly controlled pilot cohort to portfolio-scale deployment, it transitions between two entirely different operational states. This memo organizes these dynamics into four primary structural pillars:
 
-### I. Technical Performance and Data Integrity
+I. **Technical Performance and Data Integrity**
 
-While technical performance is not the sole determinant of scale, it remains foundational; a program must deliver real, cost-effective, and measurable energy savings to maintain long-term regulatory and political legitimacy. However, a significant gap persists between predictive energy models and actual realized savings.
+   While technical performance is not the sole determinant of scale, it remains foundational; a program must deliver real, cost-effective, and measurable energy savings to maintain long-term regulatory and political legitimacy. However, a significant gap persists between predictive energy models and actual realized savings.
 
-Historical program data highlights severe systemic over-prediction. For instance, in an evaluation of a heating infrastructure campaign, **deemed savings estimates for roughly 60% of participating homes were unrealistically high** given their baseline conditions. More alarmingly, **22% of these households had deemed savings targets that exceeded the home's total annual pre-retrofit energy consumption**.
+   Historical program data highlights severe systemic over-prediction. For instance, in an evaluation of a heating infrastructure campaign, **deemed savings estimates for roughly 60% of participating homes were unrealistically high** given their baseline conditions. More alarmingly, **22% of these households had deemed savings targets that exceeded the home's total annual pre-retrofit energy consumption**.
 
-When engineering estimates are decoupled from empirical realities, ratepayer trust erodes, and financing models default. Transitioning away from uncalibrated "deemed savings" toward measured performance (using real-time energy use data and standardized data streams) is essential to stabilize realization rates as volume expands.
+   When engineering estimates are decoupled from empirical realities, ratepayer trust erodes, and financing models default. Transitioning away from uncalibrated "deemed savings" toward measured performance (using real-time energy use data and standardized data streams) is essential to stabilize realization rates as volume expands.
 
-### II. Market Demand and Customer Access
+II. **Market Demand and Customer Access**
 
-The residential market is exceptionally fragmented, characterized by widely divergent customer behaviors, asymmetric access to capital, and varied property archetypes. While abstract consumer interest in sustainable housing is high, it rarely translates into independent consumer action due to an **insufficiently compelling market value proposition**, steep upfront capital constraints, and long payback periods.
+   The residential market is exceptionally fragmented, characterized by widely divergent customer behaviors, asymmetric access to capital, and varied property archetypes. While abstract consumer interest in sustainable housing is high, it rarely translates into independent consumer action due to an **insufficiently compelling market value proposition**, steep upfront capital constraints, and long payback periods.
 
-Most conventional energy efficiency programs suffer from low market penetration, **struggling to reach even 1% of eligible customers annually**, while historic top-performing initiatives cap out around 1% to 3%. Achieving deep savings requires moving past passive marketing toward aggressive, localized, and community-based outreach.
+   Most conventional energy efficiency programs suffer from low market penetration, **struggling to reach even 1% of eligible customers annually**, while historic top-performing initiatives cap out around 1% to 3%. Achieving deep savings requires moving past passive marketing toward aggressive, localized, and community-based outreach.
 
-Crucially, market demand is dynamic rather than static. Early pilot success often captures a pent-up demand from highly motivated early adopters. Once this small sub-segment is saturated, programs encounter a steep adoption cliff, requiring entirely new customer segmentation, adjusted incentive structures, and midstream or upstream rebate interventions to access the broader public.
+   Crucially, market demand is dynamic rather than static. Early pilot success often captures a pent-up demand from highly motivated early adopters. Once this small sub-segment is saturated, programs encounter a steep adoption cliff, requiring entirely new customer segmentation, adjusted incentive structures, and midstream or upstream rebate interventions to access the broader public.
 
-### III. Supply Chain and Contractor Networks
+III. **Supply Chain and Contractor Networks**
 
-The delivery architecture of any residential energy program relies fundamentally on the private construction and trade ecosystem. This market is profoundly decentralized; the vast majority of residential contracting, HVAC, and insulation firms are highly fragmented, **frequently employing fewer than 20 people**.
+   The delivery architecture of any residential energy program relies fundamentally on the private construction and trade ecosystem. This market is profoundly decentralized; the vast majority of residential contracting, HVAC, and insulation firms are highly fragmented, **frequently employing fewer than 20 people**.
 
-A pilot program can easily succeed by partnering with a small handful of exceptionally capable, highly engaged vendors or specialized engineering firms. However, this creates a false sense of security. Portfolio-scale deployment requires a vast, distributed network of trade allies capable of executing complex retrofits reliably and repeatedly.
+   A pilot program can easily succeed by partnering with a small handful of exceptionally capable, highly engaged vendors or specialized engineering firms. However, this creates a false sense of security. Portfolio-scale deployment requires a vast, distributed network of trade allies capable of executing complex retrofits reliably and repeatedly.
 
-If program rules impose unfamiliar, overly complex modeling software or tedious administrative reporting, small contracting firms will simply exit the program to avoid duplicative labor and overhead costs. Thus, contractor capacity, continuous field training, and programmatic standardization must be treated as core infrastructure that scales alongside customer acquisition.
+   If program rules impose unfamiliar, overly complex modeling software or tedious administrative reporting, small contracting firms will simply exit the program to avoid duplicative labor and overhead costs. Thus, contractor capacity, continuous field training, and programmatic standardization must be treated as core infrastructure that scales alongside customer acquisition.
 
-### IV. Operational Infrastructure and Institutional Capacity
+IV. **Operational Infrastructure and Institutional Capacity**
 
-Operational systems dictate whether a program can scale smoothly or if it will face exponential administrative friction. At a small pilot scale, a dedicated project team can manually manage data collection, process customer applications, coordinate financing, oversee quality assurance, and resolve contractor disputes. This hands-on orchestration is completely non-viable at scale.
+   Operational systems dictate whether a program can scale smoothly or if it will face exponential administrative friction. At a small pilot scale, a dedicated project team can manually manage data collection, process customer applications, coordinate financing, oversee quality assurance, and resolve contractor disputes. This hands-on orchestration is completely non-viable at scale.
 
-As participation volumes grow, manual workflows become severe bottlenecks. Administrative overhead escalates, project approval timelines stall, and customers abandon their applications mid-cycle out of sheer frustration with confusing processes.
+   As participation volumes grow, manual workflows become severe bottlenecks. Administrative overhead escalates, project approval timelines stall, and customers abandon their applications mid-cycle out of sheer frustration with confusing processes.
 
-True scalability demands robust institutional capacity and standardized data protocols (such as HPXML) to lower transaction friction and automate project flows. Programs must be treated as evolving organizational systems, where the administrative infrastructure is intentionally engineered to withstand high transaction volumes without requiring a linear, unsustainable increase in staff headcount.
+   True scalability demands robust institutional capacity and standardized data protocols (such as HPXML) to lower transaction friction and automate project flows. Programs must be treated as evolving organizational systems, where the administrative infrastructure is intentionally engineered to withstand high transaction volumes without requiring a linear, unsustainable increase in staff headcount.
 
 ---
 
