@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "From Pilot to Portfolio, What Scalability Actually Needs"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: September 25, 2026
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This article is anticipated to be published on Friday, September 25th. Thank you for your patience.
