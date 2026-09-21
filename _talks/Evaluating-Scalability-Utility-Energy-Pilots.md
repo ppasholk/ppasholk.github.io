@@ -82,16 +82,16 @@ To systematically determine whether an intervention possesses the structural rea
 
 | **Evaluation Dimension** | **Source Diagnostics & Empirical Evidence** | **Role in Scale Acceleration** |
 |---|---|---|
-| **Technical Performance** | Actual savings frequently diverge from predictive models; real-time calibration is vital to preserve baseline credibility. | **Foundational Element** — Establishes the underlying viability of the intervention; without verified savings, the program lacks a core product. |
-| **Cost-Effectiveness** | Intensive engineering models generate strong results but add severe administrative costs and transaction friction. | **Economic Stabilizer** — Determines whether utilities, private investors, and property owners can financially sustain long-term adoption. |
-| **Customer Demand** | Baseline market participation is historically low (<1%); high performing models rely on intensive community targeting. | **Growth Engine** — Ensures the program can expand beyond niche interest into mainstream, predictable market adoption. |
-| **Customer Access** | The residential market is highly heterogeneous; lower-income cohorts require specific financing and targeted structural equity. | **Equity & Scope Catalyst** — Enables the deployment framework to systematically locate, enroll, and convert hard-to-reach or underserved customer segments. |
-| **Vendor Capacity** | Program rollouts stall when complex software tools impose heavy administrative burdens on small businesses. | **Delivery Architecture** — Acts as the practical workforce engine; private trade allies must be capable of selling and installing upgrades seamlessly. |
-| **Operations** | Paper-heavy, labor-intensive workflows function during pilots but trigger severe application backlogs at scale. | **Velocity Enabler** — Determines whether transaction processing volumes can scale up smoothly without a linear explosion in administrative overhead. |
-| **Data & Reporting** | Fragmented data tracking systems and a lack of structured, systematic evaluation obscure field underperformance. | **Accountability Mechanism** — Provides clear project visibility, driving rigorous quality assurance and sustaining long-term investor confidence. |
-| **Workforce Availability** | Advanced deep retrofits require rigorous field training, standard certifications, and active workforce mentoring. | **Physical Constraint** — Prevents labor shortfalls from becoming the primary structural bottleneck to regional deployment. |
-| **Geographic Replicability** | Exceptional local pilot results are frequently tied to unique community dynamics, specific climates, or regional housing stock. | **Expansion Blueprint** — Defines how effectively the core program logic transfers across differing regulatory regimes and jurisdictions. |
-| **Program Management** | Multi-year planning horizons and systems-thinking consistently outperform fragmented, short-term planning cycles. | **System Coordinator** — Integrates all distinct operational vectors, driving continuous adaptation based on incoming field data. |
+| **Technical Performance** | Actual savings frequently diverge from predictive models; real-time calibration is vital to preserve baseline credibility. | **Foundational Element:** Establishes the underlying viability of the intervention; without verified savings, the program lacks a core product. |
+| **Cost-Effectiveness** | Intensive engineering models generate strong results but add severe administrative costs and transaction friction. | **Economic Stabilizer:** Determines whether utilities, private investors, and property owners can financially sustain long-term adoption. |
+| **Customer Demand** | Baseline market participation is historically low (<1%); high performing models rely on intensive community targeting. | **Growth Engine:** Ensures the program can expand beyond niche interest into mainstream, predictable market adoption. |
+| **Customer Access** | The residential market is highly heterogeneous; lower-income cohorts require specific financing and targeted structural equity. | **Equity & Scope Catalyst:** Enables the deployment framework to systematically locate, enroll, and convert hard-to-reach or underserved customer segments. |
+| **Vendor Capacity** | Program rollouts stall when complex software tools impose heavy administrative burdens on small businesses. | **Delivery Architecture:** Acts as the practical workforce engine; private trade allies must be capable of selling and installing upgrades seamlessly. |
+| **Operations** | Paper-heavy, labor-intensive workflows function during pilots but trigger severe application backlogs at scale. | **Velocity Enabler:** Determines whether transaction processing volumes can scale up smoothly without a linear explosion in administrative overhead. |
+| **Data & Reporting** | Fragmented data tracking systems and a lack of structured, systematic evaluation obscure field underperformance. | **Accountability Mechanism:** Provides clear project visibility, driving rigorous quality assurance and sustaining long-term investor confidence. |
+| **Workforce Availability** | Advanced deep retrofits require rigorous field training, standard certifications, and active workforce mentoring. | **Physical Constraint:** Prevents labor shortfalls from becoming the primary structural bottleneck to regional deployment. |
+| **Geographic Replicability** | Exceptional local pilot results are frequently tied to unique community dynamics, specific climates, or regional housing stock. | **Expansion Blueprint:** Defines how effectively the core program logic transfers across differing regulatory regimes and jurisdictions. |
+| **Program Management** | Multi-year planning horizons and systems-thinking consistently outperform fragmented, short-term planning cycles. | **System Coordinator:** Integrates all distinct operational vectors, driving continuous adaptation based on incoming field data. |
 
 *Table 1. Pilot Program Evaluation Matrix*
 
@@ -131,7 +131,7 @@ To escape the costly cycle of isolated, unsustainable pilot initiatives, utiliti
 
 2. **Establish Multi-Year Workforce & Infrastructure Funding:**
 
-Do not tie program capacity purely to fluctuating annual efficiency budgets. Fund trade ally onboarding, continuous field training, and programmatic standardization as foundational infrastructure that scales directly alongside customer acquisition.
+   Do not tie program capacity purely to fluctuating annual efficiency budgets. Fund trade ally onboarding, continuous field training, and programmatic standardization as foundational infrastructure that scales directly alongside customer acquisition.
 
 
 ---
