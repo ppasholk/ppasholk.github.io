@@ -8,11 +8,9 @@ date: September 20, 2026
 ---
 # Evaluating Scalability in Utility Energy Efficiency Pilots
 
-**Peter D. Pasholk**
-
-**September 2026**
-
-*Professional Essay | Energy Efficiency Program Implementation*
+**Peter D. Pasholk**  
+*September 2026*  
+`Professional Essay` | `Energy Efficiency Program Implementation`
 
 ---
 
