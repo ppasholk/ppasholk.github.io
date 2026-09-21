@@ -125,14 +125,17 @@ To build a better systemic framework, program designers must actively anticipate
 
 To escape the costly cycle of isolated, unsustainable pilot initiatives, utilities, state energy offices, and environmental policymakers should implement three core structural changes:
 
-1. **Shift the Unit of Analysis from Measure to Delivery System:**
+1. **Shift Evaluation from the Measure to the Delivery System:**
 
-   Program evaluations must expand beyond simple metrics like "kilowatt-hours saved per dollar spent." Administrators should track systemic operational indicators, including customer acquisition costs across diverse demographics, application processing timelines, contractor retention rates, and administrative friction points.
+   Program evaluations must expand beyond simple metrics like "kilowatt-hours saved per dollar spent." Administrators should track systemic operational indicators, including customer acquisition costs across diverse demographics, application processing timelines, production turnaround times, contractor retention rates, and administrative friction points.
 
-2. **Establish Multi-Year Workforce & Infrastructure Funding:**
+2. **Pilot the Program, Not Just the Measure:**
 
-   Do not tie program capacity purely to fluctuating annual efficiency budgets. Fund trade ally onboarding, continuous field training, and programmatic standardization as foundational infrastructure that scales directly alongside customer acquisition.
+   Design pilots to test the full delivery model, not simply the technical performance of the intervention. Pilot customer acquisition, contractor engagement, incentive structures, application processes, data requirements, quality assurance, and administrative workflows alongside the measure itself. This allows programs to identify and refine operational barriers before they become systemic constraints at portfolio scale.
 
+3. **Design Pilots Around Explicit Scalability Tests:**
+
+   Structure pilots to test the operational assumptions that will determine whether they can scale; not simply whether the technology works. Establish measurable scale gates for contractor capacity, customer acquisition, processing time, workforce availability, and administrative burden. Understand what the capacity for your program could be at-scale. Use these results to determine whether a program should scale, be redesigned, or discontinued before broader deployment.
 
 ---
 
