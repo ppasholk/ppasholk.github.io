@@ -92,7 +92,6 @@ awareness, few resources, or less incentive to participate.
 
 The question for a scalable pilot is not only: Did the
 measure work? 
-
 It is: What did the pilot demonstrate to give us confidence to
 move this from pilot to full program?
 
