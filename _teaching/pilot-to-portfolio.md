@@ -297,8 +297,8 @@ energy efficiency initiatives.
 
 © 2026 Peter D. Pasholk. All rights reserved.
 
-This essay represents the author’s independent analysis and
+<small>This essay represents the author’s independent analysis and
 professional perspective. The views expressed in this essay are the author’s
 own and are presented for professional and educational purposes. They do not
 necessarily represent the views of any current or former employer, client,
-utility, or program administrator.
+utility, or program administrator.</small>
