@@ -20,6 +20,7 @@ toc: true
 toc_label: "In This Article"
 toc_sticky: true
 classes: wide
+subtitle: "A pilot can establish that a measure works without establishing that the system required to deliver it can reproduce that success at scale."
 ---
 
 ## A Successful Pilot Isn't Necessarily A Scalable Program
