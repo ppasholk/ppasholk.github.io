@@ -113,96 +113,96 @@ it can reproduce those results at a large scale.
 
 A scalable pilot should therefore test more than itself.
 <div class="list-framework">
-1. Measure viability: Does it actually work?
+<strong>1. Measure viability: Does it actually work?</strong>
 
-Technical performance is the foundation.
+<p>Technical performance is the foundation.</p>
 
-A measure must produce real, measurable, and cost-effective
+<p>A measure must produce real, measurable, and cost-effective
 savings. But early savings estimates should be treated as hypotheses that
 become more precise through implementation experience, rather than fixed values
-that can simply be carried forward as volume increases.
+that can simply be carried forward as volume increases.</p>
 
-The pilot should establish whether performance holds under
+<p>The pilot should establish whether performance holds under
 real delivery conditions and what may need to change as implementation
-improves.
+improves.</p>
 
-2. Market viability: Will enough customers participate?
+<strong>2. Market viability: Will enough customers participate?</strong>
 
-A pilot can make demand look stronger than it really is.
+<p>A pilot can make demand look stronger than it really is.</p>
 
-Ideally, early participants may be more motivated, more
+<p>Ideally, early participants may be more motivated, more
 informed, or easier to reach than the broader market. Intensive outreach and
 strong incentives can also create conditions that are difficult to reproduce
-indefinitely.
+indefinitely.</p>
 
-The important question is whether participation reflects
+<p>The important question is whether participation reflects
 demand beyond the initial cohort. A scalable pilot should help identify who
 responds, why they respond, and what barriers emerge as the program moves
-beyond early adopters.
+beyond early adopters.</p>
 
-3. Customer reach: Can the program consistently find those
-customers?
+<strong>3. Customer reach: Can the program consistently find those
+customers?</strong>
 
-Having a market is not the same as having a way to reach it.
+<p>Having a market is not the same as having a way to reach it.</p>
 
-Programs need to understand how customers are acquired, what
+<p>Programs need to understand how customers are acquired, what
 it costs to reach them, which channels are effective, and whether those
 channels remain viable as participation grows. Customer education, trust,
-incentives, and the experience of participating all affect that equation.
+incentives, and the experience of participating all affect that equation.</p>
 
-The goal is not simply to demonstrate that customers will
+<p>The goal is not simply to demonstrate that customers will
 enroll. It is to develop a repeatable customer-access mechanism that can
-operate without extraordinary levels of staff intervention.
+operate without extraordinary levels of staff intervention.</p>
 
-4. Delivery capacity: Can the market deliver the work
-repeatedly?
+<strong>4. Delivery capacity: Can the market deliver the work
+repeatedly?</strong>
 
-Programs ultimately depend on contractors, vendors, trades,
-and other workforce resources that are often serving multiple markets at once.
+<p>Programs ultimately depend on contractors, vendors, trades,
+and other workforce resources that are often serving multiple markets at once.</p>
 
-A pilot may succeed because a small group of highly capable organizations
+<p>A pilot may succeed because a small group of highly capable organizations
 are willing to take on the risk that comes with participating in a new program.
 That does not necessarily demonstrate that the broader contractor market can
-make that same investment.
+make that same investment.</p>
 
-A scalable pilot should begin testing the network it will
+<p>A scalable pilot should begin testing the network it will
 eventually depend on: how many firms can participate, how quickly they become
 productive, what barriers limit participation, and how much work the available
-workforce can realistically deliver over a certain amount of time.
+workforce can realistically deliver over a certain amount of time.</p>
 
-Training, technology, certification, and administrative
+<p>Training, technology, certification, and administrative
 requirements are part of this infrastructure to consider up front, not issues
-to solve after scaling begins.
+to solve after scaling begins.</p>
 
-5. Operating capacity: Can the organization manage
-increasing volume?
+<strong>5. Operating capacity: Can the organization manage
+increasing volume?</strong>
 
-At small scale, teams can compensate for inefficient
-processes through manual work, individual expertise, and informal coordination.
+<p>At small scale, teams can compensate for inefficient
+processes through manual work, individual expertise, and informal coordination.</p>
 
-At larger scale, those same workarounds can become
-bottlenecks.
+<p>At larger scale, those same workarounds can become
+bottlenecks.</p>
 
-A pilot should therefore test the operational system behind
+<p>A pilot should therefore test the operational system behind
 the intervention: applications, approvals, data collection, quality assurance,
 reporting, coordination, and escalation. The goal is to identify which processes
 can support greater volume and which need to be standardized, automated,
-consolidated, or shifted to another partner.
+consolidated, or shifted to another partner.</p>
 
-6. Organizational and contextual readiness: Can the model be
-sustained and adapted?
+<strong>6. Organizational and contextual readiness: Can the model be
+sustained and adapted?</strong>
 
-Scale is rarely a simple matter of copying a successful
-pilot into a larger geography.
+<p>Scale is rarely a simple matter of copying a successful
+pilot into a larger geography.</p>
 
-Programs operate within different funding structures,
+<p>Programs operate within different funding structures,
 organizational arrangements, regulatory environments, markets, and workforce
-conditions. What works in one context may require adaptation in another.
+conditions. What works in one context may require adaptation in another.</p>
 
-The pilot should therefore clarify what is transferable,
+<p>The pilot should therefore clarify what is transferable,
 what is context-dependent, and what institutional capacity is required to
 support expansion, including: governance, funding, program management, market
-knowledge, and workforce development.
+knowledge, and workforce development.</p>
 </div>
 
 Taken together, these six conditions shift the question from
