@@ -113,7 +113,7 @@ it can reproduce those results at a large scale.
 
 A scalable pilot should therefore test more than itself.
 <div class="list-framework">
-1\. Measure viability: Does it actually work?
+1. Measure viability: Does it actually work?
 
 Technical performance is the foundation.
 
@@ -126,7 +126,7 @@ The pilot should establish whether performance holds under
 real delivery conditions and what may need to change as implementation
 improves.
 
-2\. Market viability: Will enough customers participate?
+2. Market viability: Will enough customers participate?
 
 A pilot can make demand look stronger than it really is.
 
@@ -140,7 +140,7 @@ demand beyond the initial cohort. A scalable pilot should help identify who
 responds, why they respond, and what barriers emerge as the program moves
 beyond early adopters.
 
-3\. Customer reach: Can the program consistently find those
+3. Customer reach: Can the program consistently find those
 customers?
 
 Having a market is not the same as having a way to reach it.
@@ -154,7 +154,7 @@ The goal is not simply to demonstrate that customers will
 enroll. It is to develop a repeatable customer-access mechanism that can
 operate without extraordinary levels of staff intervention.
 
-4\. Delivery capacity: Can the market deliver the work
+4. Delivery capacity: Can the market deliver the work
 repeatedly?
 
 Programs ultimately depend on contractors, vendors, trades,
@@ -174,7 +174,7 @@ Training, technology, certification, and administrative
 requirements are part of this infrastructure to consider up front, not issues
 to solve after scaling begins.
 
-5\. Operating capacity: Can the organization manage
+5. Operating capacity: Can the organization manage
 increasing volume?
 
 At small scale, teams can compensate for inefficient
@@ -189,7 +189,7 @@ reporting, coordination, and escalation. The goal is to identify which processes
 can support greater volume and which need to be standardized, automated,
 consolidated, or shifted to another partner.
 
-6\. Organizational and contextual readiness: Can the model be
+6. Organizational and contextual readiness: Can the model be
 sustained and adapted?
 
 Scale is rarely a simple matter of copying a successful
@@ -204,6 +204,7 @@ what is context-dependent, and what institutional capacity is required to
 support expansion, including: governance, funding, program management, market
 knowledge, and workforce development.
 </div>
+
 Taken together, these six conditions shift the question from
 “Did the pilot work?” to “What did the pilot demonstrate about our ability to
 deliver this result repeatedly?”
