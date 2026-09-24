@@ -29,7 +29,7 @@ at scale.
 
 That distinction matters in utility energy-efficiency, where
 pilots are treated as the bridge between bright idea and standard program
-offering. We test the idea or measure, see customer participate, support
+offering. We test the idea or measure, see customers participate, support
 contractors installing it, measure savings, and conclude that we have learned
 what we need to know.
 
@@ -40,7 +40,7 @@ defined set of conditions. That is important. It is not the same as proving
 that a program can repeatedly deliver those results across a much larger and
 more diverse population. 
 
-## A successful Pilot Program Might Tell Us Less Than We Think.
+## A successful Pilot Program Might Tell Us Less Than We Think
 
 At its most basic, a pilot demonstrates that an
 intervention worked under a defined set of conditions. That is valuable
@@ -101,7 +101,7 @@ move this from pilot to full program?
 My research points to six conditions that determine whether
 a pilot is positioned to scale. 
 
-This evidence suggests that the barriers to
+The evidence suggests that the barriers to
 energy-efficiency deployment extend well beyond technical performance. They
 include customer demand and access, financial and cost structures, contractor
 and workforce capacity, organizational processes, data and operational systems,
@@ -245,7 +245,7 @@ relationships, and infrastructure needed to reproduce that success?
 
 ## What should program managers do differently?
 
-That leads to three operational shifts.
+That leads to three operational shifts for program managers and implementers to consider.
 
 **Shift evaluation from
 the measure to the delivery system.**
@@ -272,6 +272,8 @@ establish measurable scale. Establish measurable scale gates for contractor
 capacity, customer acquisition, processing time, workforce availability, and
 administrative burden. 
 
+## Conclusion
+
 A pilot should generate evidence about what the program can
 realistically support, not simply produce justification to expand. 
 
@@ -284,9 +286,7 @@ scalable program.
 
 It is not, by itself, evidence that one exists.
 
-You can read more about this topic, see the supporting
-research, and find more articles on my GitHub for anyone interested in the
-implementation side of utility energy-efficiency programs.
+---
 
 About the Author
 
