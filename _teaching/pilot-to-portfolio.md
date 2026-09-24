@@ -10,7 +10,7 @@ tags:
   - Pilot Programs
   - Program Design
 type: "Professional Article"
-Collection: "teaching"
+collection: "teaching"
 layout: single
 author_profile: true
 read_time: true
