@@ -112,7 +112,7 @@ measure can work, but much less evidence that the delivery system surrounding
 it can reproduce those results at a large scale.
 
 A scalable pilot should therefore test more than itself.
-
+<div class="list-framework">
 1\. Measure viability: Does it actually work?
 
 Technical performance is the foundation.
@@ -203,7 +203,7 @@ The pilot should therefore clarify what is transferable,
 what is context-dependent, and what institutional capacity is required to
 support expansion, including: governance, funding, program management, market
 knowledge, and workforce development.
-
+</div>
 Taken together, these six conditions shift the question from
 “Did the pilot work?” to “What did the pilot demonstrate about our ability to
 deliver this result repeatedly?”
