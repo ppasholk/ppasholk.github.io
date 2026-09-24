@@ -9,7 +9,7 @@ tags:
   - Scalability
   - Pilot Programs
   - Program Design
-type: "Professional Essay"
+type: "Professional Article"
 Collection: "teaching"
 layout: single
 author_profile: true
