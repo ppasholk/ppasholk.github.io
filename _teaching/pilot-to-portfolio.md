@@ -282,8 +282,9 @@ A technically successful pilot may be the beginning of a
 scalable program.
 
 It is not, by itself, evidence that one exists.
----
+
 Thank you for reading! Please check out the [pilot scalability scorecard]({{ site.baseurl }}/files/Pilot_Scalability_Scorecard.pdf) to help evaluate the outcomes of your pilot programs and follow me on [LinkedIn](https://www.linkedin.com/in/ppasholk/) for more insights on energy efficiency program design, implementation and scaling.
+
 ---
 
 About the Author
