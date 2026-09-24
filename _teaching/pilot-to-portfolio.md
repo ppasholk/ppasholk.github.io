@@ -210,7 +210,7 @@ Taken together, these six conditions shift the question from
 deliver this result repeatedly?”
 
 I’ve developed these operating conditions into a more
-detailed [pilot scalability scorecard]({{ site.baseurl }}/files/pilot_scalability_scorecard.pdf),
+detailed [pilot scalability scorecard]({{ site.baseurl }}/files/Pilot_Scalability_Scorecard.pdf),
 with evaluation questions and indicators that can be used to assess a pilot’s
 readiness for broader deployment. 
 
