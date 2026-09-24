@@ -249,7 +249,6 @@ That leads to three operational shifts for program managers and implementers to 
 
 **Shift evaluation from
 the measure to the delivery system.**
-
 Do not stop at metrics such as kilowatt-hours saved per
 dollar spent. Track the operational conditions behind those results: customer
 acquisition costs, processing time, production turnaround, contractor
