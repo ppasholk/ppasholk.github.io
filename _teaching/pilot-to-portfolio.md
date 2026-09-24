@@ -210,7 +210,7 @@ Taken together, these six conditions shift the question from
 deliver this result repeatedly?”
 
 I’ve developed these operating conditions into a more
-detailed [pilot scalability scorecard]({{ site.baseurl }}/files/Pilot_Scalability_Scorecard.pdf),
+detailed [Pilot Scalability Scorecard]({{ site.baseurl }}/files/Pilot_Scalability_Scorecard.pdf),
 with evaluation questions and indicators that can be used to assess a pilot’s
 readiness for broader deployment. 
 
@@ -283,7 +283,7 @@ scalable program.
 
 It is not, by itself, evidence that one exists.
 
-Thank you for reading! Please check out the [pilot scalability scorecard]({{ site.baseurl }}/files/Pilot_Scalability_Scorecard.pdf) to help evaluate the outcomes of your pilot programs and follow me on [LinkedIn](https://www.linkedin.com/in/ppasholk/) for more insights on energy efficiency program design, implementation and scaling.
+Thank you for reading! Please check out the [Pilot Scalability Scorecard]({{ site.baseurl }}/files/Pilot_Scalability_Scorecard.pdf) to help evaluate the outcomes of your pilot programs and follow me on [LinkedIn](https://www.linkedin.com/in/ppasholk/) for more insights on energy efficiency program design, implementation and scaling.
 
 ---
 
