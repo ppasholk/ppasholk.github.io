@@ -40,7 +40,7 @@ defined set of conditions. That is important. It is not the same as proving
 that a program can repeatedly deliver those results across a much larger and
 more diverse population. 
 
-## A successful Pilot Program Might Tell Us Less Than We Think
+## A Successful Pilot Program Might Tell Us Less Than We Think
 
 At its most basic, a pilot demonstrates that an
 intervention worked under a defined set of conditions. That is valuable
