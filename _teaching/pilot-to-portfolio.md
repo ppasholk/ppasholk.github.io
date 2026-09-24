@@ -247,24 +247,22 @@ relationships, and infrastructure needed to reproduce that success?
 
 That leads to three operational shifts for program managers and implementers to consider.
 
-**Shift evaluation from
-the measure to the delivery system.**
+**Shift evaluation from the measure to the delivery system.**
+
 Do not stop at metrics such as kilowatt-hours saved per
 dollar spent. Track the operational conditions behind those results: customer
 acquisition costs, processing time, production turnaround, contractor
 retention, administrative friction, and other indicators that reveal whether
 the system can carry more volume.
 
-**Pilot the program,
-not just the measure.**
+**Pilot the program, not just the measure.**
 
 Test customer acquisition strategies, contractor engagement,
 incentive structures, application processes, data requirements, quality
 assurance, and administrative workflows alongside the intervention itself. The
 goal is to discover operational constraints while they are still manageable.
 
-**Design pilots around
-scalability tests.**
+**Design pilots around scalability tests.**
 
 Identify the assumptions that must hold at larger volume and
 establish measurable scale. Establish measurable scale gates for contractor
