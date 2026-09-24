@@ -11,6 +11,7 @@ tags:
   - Program Design
 type: "Professional Article"
 collection: "teaching"
+venue: "Design and Implementation, Program Scaling"
 layout: single
 author_profile: true
 read_time: true
