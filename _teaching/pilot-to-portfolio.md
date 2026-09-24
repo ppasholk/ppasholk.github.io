@@ -296,9 +296,9 @@ management, and building performance. His work focuses on program design,
 implementation, market development, and the practical challenges of scaling
 energy efficiency initiatives.
 
-© 2026 Peter D. Pasholk. All rights reserved.
+<small>© 2026 Peter D. Pasholk. All rights reserved.
 
-<small>This essay represents the author’s independent analysis and
+This essay represents the author’s independent analysis and
 professional perspective. The views expressed in this essay are the author’s
 own and are presented for professional and educational purposes. They do not
 necessarily represent the views of any current or former employer, client,
