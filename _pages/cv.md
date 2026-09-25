@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my résumé as a PDF](http://ppasholk.github.io/files/PasholkResume.pdf)
+[Download my resume as a PDF](http://ppasholk.github.io/files/PasholkResume2026.pdf)
 
 Education
 ======
