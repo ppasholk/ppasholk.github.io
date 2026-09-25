@@ -98,7 +98,7 @@ move this from pilot to full program?
 
 ## What Should a Scalable Pilot Actually Test?
 
-My research points to six conditions that determine whether
+[My research]({{ site.baseurl }}/talks/Evaluating-Scalability-Utility-Energy-Pilots/) points to six conditions that determine whether
 a pilot is positioned to scale. 
 
 The evidence suggests that the barriers to
