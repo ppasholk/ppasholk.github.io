@@ -93,19 +93,19 @@ Awards and Recognitions
   * [Champaign County RPC recognition](https://www.facebook.com/ChampaignCountyRPC/posts/for-the-second-year-in-a-row-the-rpc-is-represented-in-central-illinois-business/949727057182173/)
 * Emerging Community Leaders, Class of 2023 — United Way of Champaign County
 
-Publications
+Academic Writing
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research Memos
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Articles
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -113,4 +113,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
