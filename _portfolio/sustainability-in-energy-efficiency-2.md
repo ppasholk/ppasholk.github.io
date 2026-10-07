@@ -33,7 +33,7 @@ This creates an interesting connection to a classic sustainability concept: the 
 
 Imagine a village that shares a common pasture and all the ranchers get to use that pasture.
 
-Every rancher benefits whenever they add another cow. The additional cow creates additional income for that individual rancher. But the cost of the additional grazing is distributed across everyone who uses the pasture.
+Every rancher benefits whenever they add another cow. The additional cow creates additional income for that individual rancher. But the added cost of the extra grazing is distributed across everyone who uses the pasture.
 
 From the individual rancher's perspective, adding another cow is rational. The problem is that everyone else is making the same calculation.
 
