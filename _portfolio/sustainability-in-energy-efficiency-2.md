@@ -96,6 +96,7 @@ Bridging connects people across boundaries. It creates access to information and
 Think about a contractor who is introduced to another trade partner who can help them pursue projects they could not have completed alone. Or a new contractor that develops a relationship with a field representative that can help them understand how the program actually operates. These are bridges.
 
 Bonding creates stability, bridging creates opportunity. Sustainable contractor networks need both. 
+
 ---
 
 ### About the Author
