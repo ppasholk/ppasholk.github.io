@@ -19,11 +19,11 @@ In practice, much of sustainability is also about managing the competing interes
 There are only so many incentive dollars. Only so many staff hours. Only so much technical assistance. Only so much contractor capacity. Only so many opportunities that can be created and supported at one time.
 
 That means every program is continually making allocation decisions.
-•	Who receives support?
-•	Where does staff attention go?
-•	Which problems get solved first?
-•	Which relationships receive investment?
-•	What creates the greatest impact?
+-	Who receives support?
+-	Where does staff attention go?
+-	Which problems get solved first?
+-	Which relationships receive investment?
+-	What creates the greatest impact?
 
 The scarcer a resource becomes, the more consequential those decisions become.
 
@@ -68,12 +68,12 @@ Social capital can be understood as the value embedded in relationships.
 This includes trust, cooperation, information, support, reputation, and access
 
 We often recognize the effects of social capital without using the term.
-•	Who gets the interview?
-•	Who gets introduced to the decision-maker?
-•	Who gets a warning before a problem becomes serious?
-•	Who receives a recommendation?
-•	Who feels comfortable asking for help?
-•	Who gets their call returned first?
+-	Who gets the interview?
+-	Who gets introduced to the decision-maker?
+-	Who gets a warning before a problem becomes serious?
+-	Who receives a recommendation?
+-	Who feels comfortable asking for help?
+-	Who gets their call returned first?
 
 These are all literal advantages we leverage through our relationships. In this sense, social capital functions somewhat like financial capital. While financial capital gives someone resources that can be invested to create opportunity, social capital gives someone relationships that can be activated to create opportunity.
 
