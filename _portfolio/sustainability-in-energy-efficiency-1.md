@@ -8,7 +8,7 @@ date: October 6, 2026
 # Sustainability in Energy Efficiency Programs: Essay 1. The missing Link in Contractor Development
 
 **Peter D. Pasholk**  
-*September 2026*  
+*October 2026*  
 `Professional Essay` | `Markets and Delivery Systems`
 
 ---
