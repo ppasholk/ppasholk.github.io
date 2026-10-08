@@ -233,7 +233,7 @@ A 50-home pilot does not need to build a statewide workforce
 pipeline. 
 
 But if it achieves success only because it uses a highly
-successful contractor, bypasses typical operations channels, or relies on
+successful contractor bypasses typical operations channels, or relies on
 manual processes that cannot survive at higher volume, it may be testing a
 delivery model that was never realistic to scale.
 
