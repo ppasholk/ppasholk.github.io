@@ -15,7 +15,7 @@ date: October 7, 2026
 ---
 A crash course in sustainability theory beyond the definition of meeting present needs without compromising the ability of future generations to meet theirs. 
 
-In practice, much of sustainability is also about managing the competing interests under conditions of time and scarcity.
+In practice, much of sustainability is also about managing various competing interestsand tradeoffs under conditions of time and scarcity.
 
 There are only so many incentive dollars. Only so many staff hours. Only so much technical assistance. Only so much contractor capacity. Only so many opportunities that can be created and supported at one time.
 
