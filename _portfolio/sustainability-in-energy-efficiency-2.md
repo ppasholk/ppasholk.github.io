@@ -73,7 +73,7 @@ We often recognize the effects of social capital without using the term.
 -	Who feels comfortable asking for help?
 -	Who gets their call returned first?
 
-These are all literal advantages we leverage through our relationships. In this sense, social capital functions somewhat like financial capital. While financial capital gives someone resources that can be invested to create opportunity, social capital gives someone relationships that can be activated to create opportunity.
+These are all tangible advantages that we leverage through our relationships. In this sense, social capital functions somewhat like financial capital. While financial capital gives someone resources that can be invested to create opportunity, social capital gives someone relationships that can be activated to create opportunity.
 
 Neither is inherently good or bad. Both are accumulated. Both can be transferred. Both can influence access to opportunities.
 
