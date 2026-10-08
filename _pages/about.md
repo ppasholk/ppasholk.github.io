@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+description: "Peter Pasholk is an energy efficiency and sustainability professional with more than 10 years of experience in program management, building performance, utility energy efficiency, and program implementation."
 author_profile: true
 redirect_from: 
   - /about/
