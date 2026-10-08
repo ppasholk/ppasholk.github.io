@@ -49,6 +49,14 @@ A trusted relationship can provide information. It can create access. It can mak
 
 Training provides knowledge. Relationships turn that knowledge into action. 
 
+### Continue the Series
+
+In **Part Two** of this essay series, I take the sustainability question a step further: what happens when the resources needed to build sustainable energy efficiency programs are limited?
+
+**[Read Part Two: The Problem of Allocation](https://ppasholk.github.io/portfolio/sustainability-in-energy-efficiency-2/)**
+
+The essay uses sustainability concepts to examine how scarce program resources, existing relationships, and social capital can shape who gets access to opportunities and how those decisions can influence the long-term resilience and diversity of energy efficiency markets.
+
 ---
 
 ### About the Author
