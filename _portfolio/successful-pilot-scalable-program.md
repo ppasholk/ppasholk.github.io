@@ -7,7 +7,6 @@ collection: portfolio
 category: professional
 date: September 18, 2026
 ---
-# A Successful Pilot Isn’t Necessarily a Scalable Program
 
 **Peter D. Pasholk**  
 *September 2026*  
