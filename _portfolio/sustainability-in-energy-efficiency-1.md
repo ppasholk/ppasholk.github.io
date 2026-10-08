@@ -15,7 +15,7 @@ date: October 6, 2026
 ---
 Contractor development is vital to the success of energy efficiency programs. Programs that develop energy efficiency contractors are often assumed to follow a simple theory of change. First, train the contractors. Then give them the knowledge they need to participate. Participation should lead to projects, and projects lead to savings. On paper, the logic model for program change seems reasonable:
 
-Training → Knowledge → Participation → Projects → Savings
+**Training → Knowledge → Participation → Projects → Savings** 
 
 Training matters. Knowledge matters. Technical competence certainly matters. 
 
