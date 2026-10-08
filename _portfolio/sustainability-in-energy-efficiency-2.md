@@ -1,4 +1,5 @@
 ---
+author: Peter Pasholk
 title: "Sustainability in Energy Efficiency Programs: Essay 2. The Problem of Allocation"
 excerpt: "Sustainability is about managing the competing interests. That means programs are continually making allocation decisions."
 collection: portfolio
