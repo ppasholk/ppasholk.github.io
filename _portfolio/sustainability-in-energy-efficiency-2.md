@@ -61,9 +61,9 @@ It might also be less effective if the long-term objective is to broaden partici
 
 ## What is Social Capital?
 
-While the commons analogy is a bit of a stretch, the idea allows us to bring social capital into the discussion as a useful framework.
+While the commons analogy is a bit of a stretch, the idea allows us to bring social capital into the discussion as a useful framework. When deciding how common pool resources should be collectively managed, those with high social value and a lot of social capital find themselves invited to the negotiation table. 
 
-Social capital can be understood as the value embedded in relationships.
+For this essay, social capital can be understood as the value embedded in relationships.
 
 This includes trust, cooperation, information, support, reputation, and access
 
