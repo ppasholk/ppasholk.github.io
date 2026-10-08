@@ -1,5 +1,5 @@
 ---
-title: "Sustainability in Energy Efficiency Programs: Essay 1. The missing Link in Contractor Development"
+title: "Sustainability in Energy Efficiency Programs: Essay 1. The Missing Link in Contractor Development"
 excerpt: "Training provides knowledge. Relationships turn that knowledge into action."
 collection: portfolio
 category: professional
