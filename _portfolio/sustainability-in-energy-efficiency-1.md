@@ -46,9 +46,8 @@ This essay series focuses on how relationships connect and activate these other 
 
 A trusted relationship can provide information. It can create access. It can make asking question easier. Contractors can self-identify mentors and transfer institutional knowledge that would otherwise take years to develop independently. This creates a network for opportunities to be referred to contractors who would have otherwise been invisible.  
 
-Training provides knowledge.
+Training provides knowledge. Relationships turn that knowledge into action. 
 
-Relationships turn that knowledge into action. 
 ---
 
 ### About the Author
