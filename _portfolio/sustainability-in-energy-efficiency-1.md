@@ -28,7 +28,7 @@ That missing mechanism might be relationships. More specifically, it might be so
 I think this is worth exploring because it offers a different way to think about what contractor-development program actually produce. Instead of viewing these programs primarily as training programs, we should also view them as systems for helping organizations enter, navigate, and contribute to a broader network. These kinds of distinctions matter for how these programs are designed, staffed and measured.
 
 ## The Gap between Training and Participation
-Consider a hypothetical. Imagine we trained, certified, and equipped 200 new contractors to participate in energy efficiency programs tomorrow. We would absolutely expect some increased in participation. It seems reasonable that more trained organization would create more opportunities for projects. 
+Consider a hypothetical. Imagine we trained, certified, and equipped 200 new contractors to participate in energy efficiency programs tomorrow. We would absolutely expect some increased in participation. It seems reasonable that more trained organizations would create more opportunities for projects. 
 
 But would all 200 of these newly trained organizations suddenly participate at a rate proportional to the support the received? Probably not. 
 
@@ -39,7 +39,8 @@ A contractor might know how a technology works, install it regularly and still n
 These are examples I’ve seen of new organizations knowing what to do to participate in an energy efficiency program without knowing how to navigate the system or even how that system creates value for them. 
 
 This leads to a fundamental question contractor development programs are asking: 
-What causes someone to move from knowing to participating?
+
+**What causes someone to move from knowing to participating?**
 
 We can think of several answers: relationship, trust, confidence, access, mentorships, risk mitigation, and institutional knowledge.
 
