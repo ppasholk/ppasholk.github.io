@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Peter Pasholk"
 title_separator          : "-"
 name                     : &name "Peter Pasholk"
-description              : &description "Peter Pasholk's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Peter Pasholk's academic portfolio. Peter Pasholk is an energy efficiency and sustainability professional specializing in program management, utility energy efficiency, building performance, program implementation, and scalable energy solutions."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ppasholk.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -153,10 +153,11 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : "Person"
+  name                   : "Peter Pasholk"
+  links:
+    - "https://github.com/PPasholk"
+    - "https://www.linkedin.com/in/ppasholk/"
 
 # Analytics
 analytics:
