@@ -7,7 +7,6 @@ collection: portfolio
 category: professional
 date: October 7, 2026
 ---
-# Sustainability in Energy Efficiency Programs: Essay 2. The Problem of Allocation
 
 **Peter D. Pasholk**  
 *October 2026*  
