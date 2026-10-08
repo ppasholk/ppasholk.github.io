@@ -1,4 +1,5 @@
 ---
+author: Peter Pasholk
 title: "From Pilot to Portfolio: What Scalability Actually Needs"
 date: September 25, 2026
 excerpt: "A pilot can establish that a measure works without establishing that the system required to deliver it can reproduce that success at scale."
