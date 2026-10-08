@@ -90,7 +90,7 @@ In contractor-development programs, bonding can emerge naturally through cohorts
 
 However, on its own, bonding has a limitation. A group can become very strong internally without building connections to outside networks. This is where bridging becomes important.
 
-Bridging connects people across boundaries. It creates access to information and opportunities that would otherwise remain outside of someone’s own network. I’m sure we all know someone who has gotten a job interview because of a referral, if not gotten a job opportunity themselves. That is bridging. 
+Bridging connects people across boundaries. It creates access to information and opportunities that would otherwise remain outside of someone’s own network. I’m sure we all know someone who has gotten a job interview, if not gotten a job opportunity themselves, because of a referral. That is bridging. 
 
 Think about a contractor who is introduced to another trade partner who can help them pursue projects they could not have completed alone. Or a new contractor that develops a relationship with a field representative that can help them understand how the program actually operates. These are bridges.
 
