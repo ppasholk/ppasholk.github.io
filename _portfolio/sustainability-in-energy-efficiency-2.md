@@ -98,7 +98,7 @@ Bonding creates stability, and bridging creates opportunity. Sustainable contrac
 
 ### Continue the Series
 
-In Part Three of this essay series, I take the discussion from theory into practice: what does social capital actually mean for contractor-development programs?
+In **Part Three** of this essay series, I take the discussion from theory into practice: what does social capital actually mean for contractor-development programs?
 
 [Read Part Three: What Does This Mean for Contractor-Development Programs](https://ppasholk.github.io/portfolio/sustainability-in-energy-efficiency-3/)
 
