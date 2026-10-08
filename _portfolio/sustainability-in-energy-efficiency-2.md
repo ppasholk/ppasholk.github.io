@@ -1,6 +1,7 @@
 ---
 author: Peter Pasholk
 title: "Sustainability in Energy Efficiency Programs: Essay 2. The Problem of Allocation"
+description: "How contractor development programs can move beyond training by using relationships, trust, and social capital to turn knowledge into participation."
 excerpt: "Sustainability is about managing the competing interests. That means programs are continually making allocation decisions."
 collection: portfolio
 category: professional
