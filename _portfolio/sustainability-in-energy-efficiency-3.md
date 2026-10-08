@@ -110,7 +110,7 @@ Those interactions can be easy to overlook because they are relational rather th
 
 Information matters, training matters, and technical competency matters. But they are not the entire mechanism that introduces a business to energy efficiency programs and transforms them into a participating contractor. Perhaps one of the most important things contractor-development programs create is the network that surrounds those capabilities.
 
-Now we can start asking new questions. Where are bonding and bridging already happening? Where are the gaps? Who are the connectors? How do we make the introduction
+Now we can start asking new questions. Where are bonding and bridging already happening? Where are the gaps? Who are the connectors? How do we make the introduction?
 
 I do not think social capital explains every reason one contractor succeeds and another struggles. But I do think it offers a useful lens that shifts the question from “How do we train more contractors?” to something broader:
 
