@@ -1,5 +1,7 @@
 ---
+author: Peter Pasholk
 title: "A Successful Pilot Isn’t Necessarily a Scalable Program"
+description: "What makes a pilot program successful? This essay examines what kinds of success turn pilot energy efficiency programs into scalable, portfolio-level offerings by considering successes beyond energy savings that include capacity, access, and implementation frameworks and program delivery structures."
 excerpt: "A successful pilot is not necessarily one that meets its initial performance targets. For a pilot to become a scalable program, it must generate evidence that the underlying delivery system, its network, capacity, processes, demand, and infrastructure, can support repeatable growth. This essay proposes a practitioner-oriented way of thinking about the difference between pilot effectiveness, pilot success, and scalability."
 collection: portfolio
 category: professional
