@@ -1,6 +1,7 @@
 ---
 author: Peter Pasholk
 title: "Sustainability in Energy Efficiency Programs: Essay 1. The Missing Link in Contractor Development"
+description: "How contractor development programs can move beyond training by using relationships, trust, and social capital to turn knowledge into participation."
 excerpt: "Training provides knowledge. Relationships turn that knowledge into action."
 collection: portfolio
 category: professional
