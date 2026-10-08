@@ -1,4 +1,5 @@
 ---
+author: Peter Pasholk
 title: "Problem Recognition and the Limits of Commons Theory"
 collection: publications
 category: academic-theory
