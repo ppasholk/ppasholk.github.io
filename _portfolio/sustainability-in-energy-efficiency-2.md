@@ -13,9 +13,9 @@ date: October 7, 2026
 `Professional Essay` | `Markets and Delivery Systems`
 
 ---
-A crash course in sustainability theory beyond the definition meeting present needs without compromising the ability of future generations to meet theirs. 
+A crash course in sustainability theory beyond the definition of meeting present needs without compromising the ability of future generations to meet theirs. 
 
-In practice, much of sustainability is also about managing the competing interests under conditions of scarcity.
+In practice, much of sustainability is also about managing the competing interests under conditions of time and scarcity.
 
 There are only so many incentive dollars. Only so many staff hours. Only so much technical assistance. Only so much contractor capacity. Only so many opportunities that can be created and supported at one time.
 
@@ -38,7 +38,7 @@ Every rancher benefits whenever they add another cow. The additional cow creates
 
 From the individual rancher's perspective, adding another cow is rational. The problem is that everyone else is making the same calculation.
 
-Eventually, ranchers bring too many cow and the pasture is overgrazed and ruined. These individually rational decisions produced a collectively damaging result. No single rancher has destroyed the pasture. The system has simply produced an outcome that no individual actor intended.
+Eventually, ranchers bring too many cows and the pasture is overgrazed and ruined. These individually rational decisions produce a collectively damaging result. No single rancher has destroyed the pasture. The system has simply produced an outcome that no individual actor intended.
 
 Utility programs are not literally shared grazing fields, of course. But the underlying logic offers a useful analogy.
 
@@ -62,9 +62,9 @@ It might also be less effective if the long-term objective is to broaden partici
 
 ## What is Social Capital?
 
-While the commons analogy is a bit of a stretch, the idea allows us to bring social capital into the discussion as a useful framework. When deciding how common pool resources should be collectively managed, those with high social value and a lot of social capital find themselves invited to the negotiation table. 
+While the commons analogy is a bit of a stretch, the idea allows us to bring social capital into the discussion as a useful framework. When deciding how common pool resources should be collectively managed, those with high social capital find themselves invited to the negotiation table. 
 
-For this essay, social capital can be understood as the value embedded in relationships. This includes trust, cooperation, information, support, reputation, and access
+For this essay, social capital can be understood as the value embedded in relationships. This includes trust, cooperation, information, support, reputation, and access.
 
 We often recognize the effects of social capital without using the term.
 -	Who gets the interview?
@@ -94,7 +94,7 @@ Bridging connects people across boundaries. It creates access to information and
 
 Think about a contractor who is introduced to another trade partner who can help them pursue projects they could not have completed alone. Or a new contractor that develops a relationship with a field representative that can help them understand how the program actually operates. These are bridges.
 
-Bonding creates stability, bridging creates opportunity. Sustainable contractor networks need both. 
+Bonding creates stability, and bridging creates opportunity. Sustainable contractor networks need both. 
 
 ---
 
