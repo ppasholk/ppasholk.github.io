@@ -63,9 +63,7 @@ It might also be less effective if the long-term objective is to broaden partici
 
 While the commons analogy is a bit of a stretch, the idea allows us to bring social capital into the discussion as a useful framework. When deciding how common pool resources should be collectively managed, those with high social value and a lot of social capital find themselves invited to the negotiation table. 
 
-For this essay, social capital can be understood as the value embedded in relationships.
-
-This includes trust, cooperation, information, support, reputation, and access
+For this essay, social capital can be understood as the value embedded in relationships. This includes trust, cooperation, information, support, reputation, and access
 
 We often recognize the effects of social capital without using the term.
 -	Who gets the interview?
@@ -79,7 +77,7 @@ These are all literal advantages we leverage through our relationships. In this 
 
 Neither is inherently good or bad. Both are accumulated. Both can be transferred. Both can influence access to opportunities.
 
-The big difference is that, unlike financial capital, not all relationships have the same value, nor are they distributed equally.
+The big difference is that, unlike financial capital, not all relationships have the same value, nor is that value distributed equally or equally accessible. And for energy efficiency programs, having it means better access to finite program resources. 
 
 ## Bonding and Bridging
 
