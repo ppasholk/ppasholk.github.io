@@ -32,15 +32,17 @@ Work Experience
   * Manage the Ameren Illinois Program Ally Incubator and Procurement Advancement and Transformation Hub (PATH).
 Develop and manage the Ameren Illinois Diverse Vendor Database and support engagement with small, local, and diverse businesses.
   * Lead vendor recruitment, certification, onboarding, workshops, mentorship, and alumni engagement.
+
 2025–2026: Energy Efficiency Program Manager
-  * Future Energy Enterprises
+* Future Energy Enterprises
   * Managed planning, implementation, and delivery of the Ameren Illinois Mobile Home Initiative serving income-qualified households across the Ameren Illinois service territory.
   * Scaled program delivery from two counties to full territory coverage.
   * Increased annual incentive deployment from $650K to $1.4M.
-Expanded the contractor network from 3 to 15 participating vendors.
+  * Expanded the contractor network from 3 to 15 participating vendors.
   * Led cross-functional program delivery and stakeholder relationships involving utilities, Community Action Agencies, contractors, property managers, and nonprofit partners.
   * Developed quarterly performance reports and stakeholder presentations tracking participation, budgets, and energy savings.
   * Led pilots and operational improvements within the program.
+
 2021–2025: Energy Efficiency Program Manager
 * Champaign County Regional Planning Commission
   * Managed and expanded energy efficiency programs serving income-qualified residents of Champaign County.
@@ -48,14 +50,17 @@ Expanded the contractor network from 3 to 15 participating vendors.
   * Increased service delivery from 8 clients in PY23 to 75 in PY24.
   * Developed performance reports covering key performance indicators, budgets, and strategic updates.
   * Oversaw grant management, including budgets, goals, compliance, and outcomes.
+
 2019–2021: Project Surveyor
 * ENVOCORE
   * Conducted lighting and building envelope energy surveys on large-scale commercial and institutional facilities.
   * Surveyed schools, universities, offices, hotels, military bases, hospitals, research facilities, laboratories, and correctional facilities.
   * Produced detailed energy usage reports and supervised survey teams.
+
 2018–2019: Energy Advisor II
 * Franklin Energy Services
   * Performed residential weatherization audits and quality control inspections for Delaware's Weatherization Assistance Program.
+
 2015–2018: Account Manager / Energy Advisor
 * CLEAResult
   * Supported Program Allies and conducted quality control inspections for New Jersey's Clean Energy Program.
